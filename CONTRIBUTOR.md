@@ -15,3 +15,9 @@
   - Place: Rajasthan, India
 - Bio: Competitive Programmer, C++ Developer
 - GitHub: [Vhagar-sudo](https://github.com/Vhagar-sudo)
+
+#### Name: [Ayushman Pal](https://github.com/WannaCry016)
+
+  - Place: Chennai, India
+- Bio: Competitive Programmer, C++ Developer
+- GitHub: [WannaCry016](https://github.com/WannaCry016)
